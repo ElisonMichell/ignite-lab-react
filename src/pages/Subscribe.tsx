@@ -60,7 +60,7 @@ export function Subscribe() {
                         </form>
                     </div>
                 </div>
-                <img src="/src/assets/code-mockup.png" alt="Blur Background"  className="mt-4 px-2 lg:px-0 lg:mt-10"/>
+                <img src="./src/assets/code-mockup.png" alt="Code mockup image"  className="mt-4 px-2 lg:px-0 lg:mt-10"/>
             </div>
             <Footer />
         </div>
